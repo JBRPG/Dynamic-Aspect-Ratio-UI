@@ -1,2 +1,6 @@
 # Dynamic-Aspect-Ratio-UI
- Dynamic Aspect Ratio Configuration Sample for Unity Projects
+ 
+ Uses the open source LetterBoxer framework for bulk work of adjusting screen aspect ratios.
+ 
+ This plugin is intended for allowing variable gameplay aspect ratios to fit in with the display window.
+ Contains multiple configurations for game and disply aspect ratios, screen orientation, and display resolution. Also has options for full screen.
